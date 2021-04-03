@@ -30,10 +30,5 @@ fields:
 - type: boolean
   name: dark_mode
   label: Dark mode
-- name: test
-  type: include
-  config: {}
-  template: project
-  label: test
 pages:
 - data/theme.json
