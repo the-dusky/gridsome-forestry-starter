@@ -30,5 +30,17 @@ fields:
 - type: boolean
   name: dark_mode
   label: Dark mode
+- name: test
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: projects
+      file: 
+      path: 
+  label: test
 pages:
 - data/theme.json
