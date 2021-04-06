@@ -1,4 +1,15 @@
 ---
 label: Page
 hide_body: true
-fields: []
+fields:
+- name: test
+  type: blocks
+  label: test
+  template_types:
+  - journal
+  - theme-configuration
+  - project
+  - author
+  config:
+    min: 
+    max: 
