@@ -5,6 +5,12 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: directory
+  path: components
+  label: Components
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: directory
   path: pages
   label: Pages
   create: all
