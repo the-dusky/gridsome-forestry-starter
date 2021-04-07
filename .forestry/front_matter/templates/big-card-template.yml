@@ -14,5 +14,6 @@ fields:
     maxSize: 64
   label: Image
 pages:
+- components/Tall Card/develop-with-us.md
 - components/Tall Card/explore-the-ecosystem.md
 - components/Tall Card/learn-about-secret-network.md
