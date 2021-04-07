@@ -1,6 +1,6 @@
 {
   "name": "Title Hero",
-  "route": "test",
+  "route": "/json-test",
   "components": [
     {
       "template": "simple-page-title",
