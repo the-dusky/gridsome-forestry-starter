@@ -11,6 +11,7 @@ components:
   - components/Tall Card/explore-the-ecosystem.md
   - components/Tall Card/develop-with-us.md
 - template: content
-  body: "<pre><code></code></pre>"
+  name: A paragraph about the about
+  body: "<p>This is a paragraph</p>"
 
 ---
