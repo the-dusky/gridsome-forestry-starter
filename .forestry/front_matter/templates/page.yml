@@ -22,3 +22,5 @@ fields:
       type: pages
       section: components
   label: Components
+pages:
+- pages/about.md
