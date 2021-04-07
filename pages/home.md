@@ -37,6 +37,14 @@ example__field_group:
   subtitle: Something
   image: "/uploads/mike-dorner-173502-unsplash.jpg"
 example__repeatable_field_group:
+- name: Second Repeat
+  sortable_list:
+  - components/Tall Card/develop-with-us.md
+  - components/Tall Card/develop-with-us.md
+  - components/Tall Card/explore-the-ecosystem.md
+  - components/Tall Card/learn-about-secret-network.md
+  - components/Wide Card/wide-wide-world.md
+  - components/Tall Card/develop-with-us.md
 - sortable_list:
   - components/Tall Card/learn-about-secret-network.md
   - components/Wide Card/wide-wide-world.md
