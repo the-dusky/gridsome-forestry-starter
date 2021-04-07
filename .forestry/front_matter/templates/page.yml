@@ -48,6 +48,15 @@ fields:
         type: pages
         section: card-grid
     label: 'Sortable List: Card'
+  - name: blocks__card
+    type: blocks
+    template_types:
+    - big-card-template
+    - titlesubtitleimage-card
+    config:
+      min: 
+      max: 
+    label: 'Blocks: Card'
   label: Examples
 pages:
 - pages-alt/a-page.json
