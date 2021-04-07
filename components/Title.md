@@ -1,5 +1,0 @@
----
-name: Title Hero
-route: ''
-
----
