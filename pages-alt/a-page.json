@@ -15,6 +15,10 @@
         "components/Tall Card/explore-the-ecosystem.md",
         "components/Tall Card/develop-with-us.md"
       ]
+    },
+    {
+      "template": "content",
+      "html": ""
     }
   ]
 }
