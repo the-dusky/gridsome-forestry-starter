@@ -32,5 +32,9 @@ example__field_group:
     type: Wide Card
     title: Something
     image: "/uploads/markus-spiske-516263-unsplash.jpg"
+  type: Tall Card
+  title: Title Subtitle Card
+  subtitle: Something
+  image: "/uploads/mike-dorner-173502-unsplash.jpg"
 
 ---
