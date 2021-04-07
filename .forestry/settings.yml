@@ -32,7 +32,6 @@ sections:
 - type: document
   path: components
   label: Cards_Component
-  match: "**/*"
 - type: document
   path: components
   label: Card_Component
