@@ -34,7 +34,7 @@ sections:
 - type: directory
   path: components
   label: Cards
-  create: documents
+  create: all
   match: "**/*"
   new_doc_ext: md
   templates:
