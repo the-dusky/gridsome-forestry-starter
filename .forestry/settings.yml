@@ -32,13 +32,12 @@ sections:
 - type: document
   path: components
   label: Card Grid
-  match: "**/*"
 - type: directory
   path: components
   label: Big Cards
-  create: all
+  create: none
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - card_component
 upload_dir: uploads
