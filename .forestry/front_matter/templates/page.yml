@@ -57,6 +57,16 @@ fields:
       min: 
       max: 
     label: 'Blocks: Card'
+  - name: include_template__card
+    type: include
+    config: {}
+    template: big-card-template
+    label: 'Include Template: Title Image Card'
+  - name: include_template
+    type: include
+    config: {}
+    template: titlesubtitleimage-card
+    label: 'Include Template: Title Subtitle Image Card'
   label: 'Example: Field Group'
 - name: example__repeatable_field_group
   type: field_group_list
