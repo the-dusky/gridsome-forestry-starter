@@ -7,11 +7,10 @@ components:
 - template: card-section
   title: Awesome Card Section
   cards:
-  - components/learn-about-secret-network.app
-  - components/explore-the-ecosystem.app
-  - components/develop-with-us.app
-- template: card-section
-  title: ''
-  cards: []
+  - components/Tall Card/learn-about-secret-network.md
+  - components/Tall Card/explore-the-ecosystem.md
+  - components/Tall Card/develop-with-us.md
+- template: content
+  body: "<pre><code></code></pre>"
 
 ---
