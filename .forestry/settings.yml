@@ -29,6 +29,10 @@ sections:
   label: Theme config
 - type: heading
   label: Components
+- type: document
+  path: components
+  label: Card_Component
+  match: "**/*"
 - type: directory
   path: components
   label: Components
