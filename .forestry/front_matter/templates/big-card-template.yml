@@ -14,5 +14,6 @@ fields:
     maxSize: 64
   label: Image
 pages:
+- components/develop-with-us.app
 - components/explore-the-ecosystem.app
 - components/learn-about-secret-network.app
