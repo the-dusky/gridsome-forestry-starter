@@ -22,7 +22,7 @@ fields:
   config:
     min: 
     max: 
-- name: examples
+- name: example__field_group
   type: field_group
   config: {}
   fields:
@@ -57,7 +57,25 @@ fields:
       min: 
       max: 
     label: 'Blocks: Card'
-  label: Examples
+  label: 'Example: Field Group'
+- name: example__repeatable_field_group
+  type: field_group_list
+  fields:
+  - name: sortable_list
+    type: list
+    config:
+      use_select: true
+      min: 
+      max: 
+      source:
+        type: pages
+        section: card-grid
+    label: Sortable List
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: 'Example: Repeatable Field Group'
 pages:
 - pages-alt/a-page.json
 - pages-alt/test..json
