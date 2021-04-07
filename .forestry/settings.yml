@@ -31,12 +31,15 @@ sections:
   label: Components
 - type: document
   path: components
-  label: Card_Component
+  label: Cards_Component
   match: "**/*"
+- type: document
+  path: components
+  label: Card_Component
 - type: directory
   path: components
   label: Components
-  create: documents
+  create: none
   match: "**/*"
   new_doc_ext: md
   templates:
