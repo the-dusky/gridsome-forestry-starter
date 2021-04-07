@@ -5,6 +5,13 @@
     {
       "template": "simple-page-title",
       "title": "test"
+    },
+    {
+      "template": "card-section",
+      "title": "test",
+      "cards": [
+        "components/Wide Card/wide-wide-world.md"
+      ]
     }
   ]
 }
