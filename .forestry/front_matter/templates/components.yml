@@ -7,11 +7,6 @@ fields:
   config:
     required: false
   label: Name
-- name: route
-  type: text
-  config:
-    required: false
-  label: Route
 pages:
 - components/Title.md
 - components/card_component.md
