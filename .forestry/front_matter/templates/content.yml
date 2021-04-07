@@ -11,3 +11,5 @@ fields:
     schema:
       format: html
   label: html
+pages:
+- inline-content/some content.json
