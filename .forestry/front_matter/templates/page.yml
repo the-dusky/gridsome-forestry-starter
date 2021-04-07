@@ -22,5 +22,10 @@ fields:
       type: pages
       section: components
   label: Components
+- name: include_template
+  type: include
+  config: {}
+  template: components
+  label: Include Template
 pages:
 - pages/about.md
