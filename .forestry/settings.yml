@@ -37,7 +37,7 @@ sections:
   label: Big Cards
   create: documents
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: app
   templates:
   - big-card-template
 upload_dir: uploads
