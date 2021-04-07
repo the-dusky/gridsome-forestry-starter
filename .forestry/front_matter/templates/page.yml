@@ -71,6 +71,11 @@ fields:
 - name: example__repeatable_field_group
   type: field_group_list
   fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
   - name: sortable_list
     type: list
     config:
@@ -84,7 +89,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: name
   label: 'Example: Repeatable Field Group'
 pages:
 - pages-alt/a-page.json
