@@ -1,4 +1,12 @@
 ---
 label: Cards_Component
 hide_body: true
-fields: []
+fields:
+- name: card
+  type: blocks
+  label: card
+  template_types:
+  - card_component
+  config:
+    min: 
+    max: 
