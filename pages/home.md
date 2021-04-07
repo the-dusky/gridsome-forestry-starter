@@ -10,5 +10,8 @@ components:
   - components/learn-about-secret-network.app
   - components/explore-the-ecosystem.app
   - components/develop-with-us.app
+- template: card-section
+  title: ''
+  cards: []
 
 ---
