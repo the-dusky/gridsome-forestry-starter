@@ -20,5 +20,17 @@ examples:
   - components/Tall Card/learn-about-secret-network.md
   - components/Tall Card/explore-the-ecosystem.md
   - components/Wide Card/wide-wide-world.md
+example__field_group:
+  select_field__card: components/Wide Card/wide-wide-world.md
+  sortable_list__card:
+  - components/Tall Card/learn-about-secret-network.md
+  - components/Wide Card/wide-wide-world.md
+  - components/Tall Card/explore-the-ecosystem.md
+  - components/Tall Card/develop-with-us.md
+  blocks__card:
+  - template: big-card-template
+    type: Wide Card
+    title: Something
+    image: "/uploads/markus-spiske-516263-unsplash.jpg"
 
 ---
