@@ -14,3 +14,4 @@ fields:
   label: Route
 pages:
 - components/Title.md
+- components/cards_component.md
