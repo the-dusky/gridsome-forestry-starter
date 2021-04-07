@@ -22,4 +22,5 @@ fields:
     min: 
     max: 
 pages:
+- pages-alt/a-page.json
 - pages-alt/test..json
