@@ -16,8 +16,7 @@ fields:
   type: blocks
   label: Components
   template_types:
-  - card_component
-  - cards_component
+  - card-section
   config:
     min: 
     max: 
