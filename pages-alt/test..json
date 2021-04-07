@@ -1,0 +1,10 @@
+{
+  "name": "Title Hero",
+  "route": "test",
+  "components": [
+    {
+      "template": "simple-page-title",
+      "title": "test"
+    }
+  ]
+}

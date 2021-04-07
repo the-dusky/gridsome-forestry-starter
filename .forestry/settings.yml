@@ -5,6 +5,14 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: directory
+  path: pages-alt
+  label: Pages Alt
+  create: all
+  match: "**/*"
+  new_doc_ext: ".json"
+  templates:
+  - page
+- type: directory
   path: pages
   label: Pages
   create: all
