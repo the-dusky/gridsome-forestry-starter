@@ -42,5 +42,6 @@ example__repeatable_field_group:
   - components/Wide Card/wide-wide-world.md
   - components/Tall Card/explore-the-ecosystem.md
   - components/Tall Card/develop-with-us.md
+  name: First Repeat
 
 ---
