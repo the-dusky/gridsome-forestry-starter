@@ -31,9 +31,6 @@ sections:
   label: Theme config
 - type: heading
   label: Components
-- type: document
-  path: components
-  label: Card Grid
 - type: directory
   path: components
   label: Big Cards
