@@ -6,7 +6,7 @@ components:
 - components/cards_component.md
 blocks:
 - template: components
-  name: Title
+  name: Card
   route: ''
 - template: components
   name: ''
