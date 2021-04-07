@@ -2,9 +2,9 @@
 label: Page
 hide_body: true
 fields:
-- name: test
+- name: name
   type: blocks
-  label: test
+  label: Name
   template_types:
   - journal
   - theme-configuration
@@ -13,3 +13,8 @@ fields:
   config:
     min: 
     max: 
+- name: route
+  type: text
+  config:
+    required: false
+  label: Route
