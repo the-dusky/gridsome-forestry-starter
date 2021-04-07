@@ -29,20 +29,20 @@ sections:
   label: Theme config
 - type: heading
   label: Components
+- type: directory
+  path: components
+  label: Big Cards
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - card_component
 - type: document
   path: components
   label: Cards_Component
 - type: document
   path: components
   label: Card_Component
-- type: directory
-  path: components
-  label: Components
-  create: none
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - components
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
