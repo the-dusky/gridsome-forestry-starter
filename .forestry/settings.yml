@@ -18,6 +18,8 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - components
 - type: directory
   path: pages
   label: Pages
