@@ -36,5 +36,11 @@ example__field_group:
   title: Title Subtitle Card
   subtitle: Something
   image: "/uploads/mike-dorner-173502-unsplash.jpg"
+example__repeatable_field_group:
+- sortable_list:
+  - components/Tall Card/learn-about-secret-network.md
+  - components/Wide Card/wide-wide-world.md
+  - components/Tall Card/explore-the-ecosystem.md
+  - components/Tall Card/develop-with-us.md
 
 ---
