@@ -29,6 +29,10 @@ sections:
   label: Theme config
 - type: heading
   label: Components
+- type: document
+  path: components
+  label: Card Grid
+  match: "**/*"
 - type: directory
   path: components
   label: Big Cards
@@ -37,12 +41,6 @@ sections:
   new_doc_ext: ".md"
   templates:
   - card_component
-- type: document
-  path: components
-  label: Cards_Component
-- type: document
-  path: components
-  label: Card_Component
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
