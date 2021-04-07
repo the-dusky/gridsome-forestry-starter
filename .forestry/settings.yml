@@ -39,6 +39,7 @@ sections:
   new_doc_ext: md
   templates:
   - big-card-template
+  - titlesubtitleimage-card
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
