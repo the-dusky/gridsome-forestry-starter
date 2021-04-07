@@ -5,8 +5,8 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: directory
-  path: inline-content
-  label: Inline Content
+  path: raw-content
+  label: Raw Content
   create: all
   match: "**/*"
   new_doc_ext: md
