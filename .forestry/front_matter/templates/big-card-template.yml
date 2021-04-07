@@ -3,6 +3,12 @@ label: Title-Image Card
 hide_body: true
 display_field: title
 fields:
+- name: type
+  type: text
+  config:
+    required: false
+  label: Type
+  default: Wide Card
 - name: title
   type: text
   config:
