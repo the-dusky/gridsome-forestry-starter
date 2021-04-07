@@ -22,10 +22,13 @@ fields:
       type: pages
       section: components
   label: Components
-- name: include_template
-  type: include
-  config: {}
-  template: components
-  label: Include Template
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types:
+  - components
+  config:
+    min: 
+    max: 
 pages:
 - pages/about.md
