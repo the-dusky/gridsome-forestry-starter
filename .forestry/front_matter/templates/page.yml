@@ -3,18 +3,22 @@ label: Page
 hide_body: true
 fields:
 - name: name
-  type: blocks
-  label: Name
-  template_types:
-  - journal
-  - theme-configuration
-  - project
-  - author
+  type: text
   config:
-    min: 
-    max: 
+    required: false
+  label: Name
 - name: route
   type: text
   config:
     required: false
   label: Route
+- name: components
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: components
+  label: Components
