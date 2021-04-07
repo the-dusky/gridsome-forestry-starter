@@ -35,11 +35,11 @@ sections:
 - type: directory
   path: components
   label: Big Cards
-  create: none
+  create: documents
   match: "**/*"
-  new_doc_ext: md
+  new_doc_ext: ''
   templates:
-  - card_component
+  - big-card-template
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
