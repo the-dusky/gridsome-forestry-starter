@@ -18,6 +18,7 @@ fields:
   template_types:
   - simple-page-title
   - card-section
+  - content
   config:
     min: 
     max: 
