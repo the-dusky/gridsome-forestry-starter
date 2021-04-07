@@ -33,10 +33,10 @@ sections:
   label: Components
 - type: directory
   path: components
-  label: Big Cards
+  label: Vertical Cards
   create: documents
   match: "**/*"
-  new_doc_ext: app
+  new_doc_ext: ".md"
   templates:
   - big-card-template
 upload_dir: uploads
