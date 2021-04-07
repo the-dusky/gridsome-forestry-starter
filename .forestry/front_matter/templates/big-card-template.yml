@@ -15,3 +15,4 @@ fields:
   label: Image
 pages:
 - components/explore-the-ecosystem.app
+- components/learn-about-secret-network.app
