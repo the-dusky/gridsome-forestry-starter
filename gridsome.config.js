@@ -35,7 +35,7 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
-        path: "page/**/*.md",
+        path: "pages/**/*.md",
         typeName: "Pages",
         resolveAbsolutePaths: true,
         remark: {
