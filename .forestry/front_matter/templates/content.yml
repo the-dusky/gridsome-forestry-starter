@@ -16,5 +16,3 @@ fields:
     schema:
       format: html-blocks
   label: body
-pages:
-- inline-content/test.md
