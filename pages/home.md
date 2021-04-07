@@ -2,6 +2,8 @@
 name: Home
 route: "/"
 components:
+- template: simple-page-title
+  title: Secret Network
 - template: card-section
   title: Awesome Card Section
   cards:
