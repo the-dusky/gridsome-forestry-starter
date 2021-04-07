@@ -5,14 +5,6 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: directory
-  path: components
-  label: Components
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - components
-- type: directory
   path: pages
   label: Pages
   create: all
@@ -35,6 +27,16 @@ sections:
 - type: document
   path: data/theme.json
   label: Theme config
+- type: heading
+  label: Components
+- type: directory
+  path: components
+  label: Components
+  create: documents
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - components
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
