@@ -52,7 +52,7 @@ sections:
   label: Cards
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - big-card-template
   - titlesubtitleimage-card
