@@ -19,6 +19,7 @@ fields:
   - simple-page-title
   - card-section
   - content
+  - big-card-template
   config:
     min: 
     max: 
