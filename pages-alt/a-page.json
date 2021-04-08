@@ -18,7 +18,24 @@
     },
     {
       "template": "content",
-      "html": ""
+      "html": "",
+      "name": "Some Content",
+      "body": "<pre><code>&lt;a href=\"www.google.come\"&gt;Link&lt;/a&gt;</code></pre>"
     }
+  ],
+  "example__field_group": {
+    "select_field__card": "",
+    "sortable_list__card": [
+
+    ],
+    "blocks__card": [
+
+    ],
+    "title": "",
+    "image": "",
+    "subtitle": ""
+  },
+  "example__repeatable_field_group": [
+
   ]
 }
