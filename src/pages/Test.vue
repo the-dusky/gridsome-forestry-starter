@@ -19,23 +19,23 @@ export default {
   mounted() {
     this.pageComponents = [
       {
-          name: "LatestJournals",
-          props: {
-            journals: this.$page.journals.edges
-          }
-        },
-        {
-          name: "Hero",
-          props: {}
-        },
-        {
-          name: "ProjectsGrid",
-          props: {
-            projects: this.$page.projects.edges
-          }
-        },
-        
-      ]
+        name: "Hero",
+        props: {}
+      },
+      {
+        name: "ProjectsGrid",
+        props: {
+          projects: this.$page.projects.edges
+        }
+      },
+      {
+        name: "LatestJournals",
+        props: {
+          journals: this.$page.journals.edges
+        }
+      },
+      
+    ]
   }
 }
 </script>
