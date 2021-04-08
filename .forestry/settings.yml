@@ -52,7 +52,7 @@ sections:
   label: Cards
   create: all
   match: "**/*"
-  new_doc_ext: ".json"
+  new_doc_ext: json
   templates:
   - new-cards
   - big-card-template

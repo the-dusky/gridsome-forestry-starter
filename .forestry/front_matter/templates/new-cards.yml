@@ -14,3 +14,4 @@ fields:
   label: Image
 pages:
 - components/explore-the-ecosystem.md
+- components/json-card.json
