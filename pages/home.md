@@ -7,6 +7,7 @@ components:
 - template: card-section
   title: Awesome Card Section
   cards:
+  - components/Tall Card/learn-about-secret-network.md
   - components/Wide Card/wide-wide-world.md
   - components/Tall Card/learn-about-secret-network.md
   - components/Tall Card/explore-the-ecosystem.md
