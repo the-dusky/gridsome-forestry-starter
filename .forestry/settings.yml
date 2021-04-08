@@ -54,6 +54,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
+  - new-cards
   - big-card-template
   - titlesubtitleimage-card
 upload_dir: uploads
