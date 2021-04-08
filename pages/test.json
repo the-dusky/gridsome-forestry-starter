@@ -1,0 +1,33 @@
+{
+  "example__field_group": {
+    "select_field__card": [
+
+    ],
+    "sortable_list__card": [
+
+    ],
+    "blocks__card": [
+
+    ],
+    "title": "",
+    "image": "",
+    "subtitle": ""
+  },
+  "name": "test",
+  "route": "/test",
+  "components": [
+    {
+      "template": "card-section",
+      "title": "Awesome Card Section",
+      "cards": [
+        "components/this-new-card.md",
+        "components/Tall Card/learn-about-secret-network.md",
+        "components/Wide Card/wide-wide-world.md",
+        "components/Tall Card/explore-the-ecosystem.md"
+      ]
+    }
+  ],
+  "example__repeatable_field_group": [
+
+  ]
+}
