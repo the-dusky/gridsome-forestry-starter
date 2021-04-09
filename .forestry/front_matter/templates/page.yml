@@ -95,4 +95,5 @@ fields:
 pages:
 - pages-alt/a-page.json
 - pages-alt/test..json
+- pages/ecosystem.json
 - pages/test.json

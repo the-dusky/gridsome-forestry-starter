@@ -1,0 +1,27 @@
+{
+  "example__field_group": {
+    "select_field__card": [
+
+    ],
+    "sortable_list__card": [
+
+    ],
+    "blocks__card": [
+
+    ],
+    "title": "",
+    "image": "",
+    "subtitle": ""
+  },
+  "name": "Ecosystem",
+  "route": "/ecosystem",
+  "components": [
+    {
+      "template": "simple-page-title",
+      "title": "Ecosystem"
+    }
+  ],
+  "example__repeatable_field_group": [
+
+  ]
+}
