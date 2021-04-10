@@ -19,6 +19,11 @@
     {
       "template": "simple-page-title",
       "title": "Ecosystem"
+    },
+    {
+      "template": "content",
+      "name": "Intro Paragraph",
+      "body": "\\### Contributors\n\nSecret Network is currently supported by over 30 active validators as well as a number of key contributors to the ecosystem developing network tooling, core protocol functionality, and more.\n\nA few key network contributors are featured below."
     }
   ],
   "example__repeatable_field_group": [
