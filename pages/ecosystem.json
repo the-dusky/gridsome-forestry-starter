@@ -33,6 +33,11 @@
         "components/Tall Card/learn-about-secret-network.md",
         "components/Wide Card/wide-wide-world.md"
       ]
+    },
+    {
+      "template": "content",
+      "name": "About the Wallets and Exchange Support",
+      "body": "\\### Exchange and Wallet Support\n\nSecret Network is secured by the SCRT coin (Secret), which is used for fees, staking, and governance. You can trade Secret (SCRT) on Binance. See also: CoinMarketCap and CoinGecko. Multiple wallets already provide support for SCRT transactions and staking:"
     }
   ],
   "example__repeatable_field_group": [
