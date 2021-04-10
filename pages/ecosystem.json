@@ -24,6 +24,15 @@
       "template": "content",
       "name": "Intro Paragraph",
       "body": "\\### Contributors\n\nSecret Network is currently supported by over 30 active validators as well as a number of key contributors to the ecosystem developing network tooling, core protocol functionality, and more.\n\nA few key network contributors are featured below."
+    },
+    {
+      "template": "card-section",
+      "title": "Main Calls to Action",
+      "cards": [
+        "components/this-new-card.md",
+        "components/Tall Card/learn-about-secret-network.md",
+        "components/Wide Card/wide-wide-world.md"
+      ]
     }
   ],
   "example__repeatable_field_group": [
